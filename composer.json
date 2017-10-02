@@ -23,7 +23,7 @@
     ],
     "require": {
         "spatie/laravel-permission": "~1.5.2",
-        "moloquent/moloquent": "4.0"
+        "moloquent/moloquent": "0.4"
     },
     "autoload": {
         "psr-4": {
